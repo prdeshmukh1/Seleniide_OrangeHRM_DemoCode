@@ -58,4 +58,4 @@ mvn clean install
 
 
 ## Contact
-Prashant Deshmukh : Test Manager @ Accelirate
+Prashant Deshmukh : Test Manager 
