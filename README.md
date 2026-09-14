@@ -37,7 +37,7 @@ pom.xml: Maven configuration file for project dependencies and build management.
 ### Installation
 
 1) Clone the repository:
-git clone https://github.com/jeetu071999/OrangeHRM_DemoCode.git
+git clone [https://github.com/prdeshmukh1/Selenide_OrangeHRM_DemoCode](https://github.com/prdeshmukh1/Selenide_OrangeHRM_DemoCode)
 
 2) Navigate to the project directory:
 cd OrangeHRM_DemoCode
